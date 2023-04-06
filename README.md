@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 ### Github criado com finalidade de compartilhar projetos escolares e profissionais! :smile:
-Olá, meu nome é Yan. Sou um estudante do ensino médio integrado a TI. Moro em São Paulo, Brasil:brazil:. Amo programar, descobrir coisa novas e jogar todo tipo de jogo.
+Olá, meu nome é Yan. Sou um estudante do ensino médio integrado a TI. Moro em São Paulo, Brasil:green_heart:. Amo programar, descobrir coisa novas e jogar todo tipo de jogo.
 <!--
 **Yan-Gralha/Yan-Gralha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
