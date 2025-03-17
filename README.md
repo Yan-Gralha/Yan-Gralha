@@ -9,8 +9,11 @@ Meu nome é Yan Ambrosio Gralha e sou estudante de Sistemas de Informação na M
 
 📫 Contato: yan.ambrosio.gralha@gmail.com
 🔗 LinkedIn: www.linkedin.com/in/yan-ambrósio-gralha
+
 ------------------------------------------
+
 ### Hello! 👋
+
 ### 🚀 Welcome to my GitHub!
 My name is Yan Ambrosio Gralha, and I’m an Information Systems student at Mackenzie University in São Paulo, Brazil. I'm passionate about programming, technology, and gaming of all kinds.
 
